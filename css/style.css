@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Smokum&display=swap');
+body {
+    background-color: blanchedalmond;
+}
+.heading {
+    text-align: center;
+}
+.playground-heading{
+    color: blueviolet;
+    font-family: 'Hurricane', cursive;
+font-size: 5rem;
+}
+.main{
+    border: 3px solid green;
+    width: 55%;
+    margin: 0 auto;
+}
+.main div{
+    height: 200px;
+width: 200px;
+border: 1px solid red;
+border-radius: 50%;
+margin: 2rem auto;
+}
+#red{
+    border-color: red;
+}
+#blue{
+    border-color: blue;
+}
+#green{
+    border-color: green;
+}
+
+.footer{
+   color: brown;
+    font-family: 'Smokum', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
