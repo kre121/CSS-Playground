@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Ramaraja&display=swap');
+body {
+    background-color:pink;
+}
+.heading{
+    text-align: center;
+}
+.playground-heading{
+    color: plum;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.ingredients{
+    border: 1px solid purple;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+.ingredients-table{
+    border: 1xp solid purple;
+    margin-left: 10rem;
+}
+.instructions{
+border: 1px solid purple;
+width: 50%;
+margin: 0 auto;
+}
+.instructions ol{
+    border: 1px solid purple;
+    margin: 0 auto;
+    width: 75%;
+}
+
